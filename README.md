@@ -8,8 +8,6 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 
 This repo contains all my work for this specialization. All the code base and images are taken from the [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning), unless specified.
 
-Instructor: [Andrew Ng, DeepLearning.ai]()
-
  ## Course 1. [Neural Networks and Deep Learning](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
  
 1. Week1 - Introduction to deep learning
