@@ -1,0 +1,198 @@
+baseline {
+  feature {
+    name: "Date Time"
+    type: BYTES
+    presence {
+      min_fraction: 1.0
+      min_count: 1
+    }
+    shape {
+      dim {
+        size: 1
+      }
+    }
+  }
+  feature {
+    name: "H2OC (mmol/mol)"
+    type: FLOAT
+    presence {
+      min_fraction: 1.0
+      min_count: 1
+    }
+    shape {
+      dim {
+        size: 1
+      }
+    }
+  }
+  feature {
+    name: "T (degC)"
+    type: FLOAT
+    presence {
+      min_fraction: 1.0
+      min_count: 1
+    }
+    shape {
+      dim {
+        size: 1
+      }
+    }
+  }
+  feature {
+    name: "Tdew (degC)"
+    type: FLOAT
+    presence {
+      min_fraction: 1.0
+      min_count: 1
+    }
+    shape {
+      dim {
+        size: 1
+      }
+    }
+  }
+  feature {
+    name: "Tpot (K)"
+    type: FLOAT
+    presence {
+      min_fraction: 1.0
+      min_count: 1
+    }
+    shape {
+      dim {
+        size: 1
+      }
+    }
+  }
+  feature {
+    name: "VPact (mbar)"
+    type: FLOAT
+    presence {
+      min_fraction: 1.0
+      min_count: 1
+    }
+    shape {
+      dim {
+        size: 1
+      }
+    }
+  }
+  feature {
+    name: "VPdef (mbar)"
+    type: FLOAT
+    presence {
+      min_fraction: 1.0
+      min_count: 1
+    }
+    shape {
+      dim {
+        size: 1
+      }
+    }
+  }
+  feature {
+    name: "VPmax (mbar)"
+    type: FLOAT
+    presence {
+      min_fraction: 1.0
+      min_count: 1
+    }
+    shape {
+      dim {
+        size: 1
+      }
+    }
+  }
+  feature {
+    name: "max. wv (m/s)"
+    type: FLOAT
+    presence {
+      min_fraction: 1.0
+      min_count: 1
+    }
+    shape {
+      dim {
+        size: 1
+      }
+    }
+  }
+  feature {
+    name: "p (mbar)"
+    type: FLOAT
+    presence {
+      min_fraction: 1.0
+      min_count: 1
+    }
+    shape {
+      dim {
+        size: 1
+      }
+    }
+  }
+  feature {
+    name: "rh (%)"
+    type: FLOAT
+    presence {
+      min_fraction: 1.0
+      min_count: 1
+    }
+    shape {
+      dim {
+        size: 1
+      }
+    }
+  }
+  feature {
+    name: "rho (g/m**3)"
+    type: FLOAT
+    presence {
+      min_fraction: 1.0
+      min_count: 1
+    }
+    shape {
+      dim {
+        size: 1
+      }
+    }
+  }
+  feature {
+    name: "sh (g/kg)"
+    type: FLOAT
+    presence {
+      min_fraction: 1.0
+      min_count: 1
+    }
+    shape {
+      dim {
+        size: 1
+      }
+    }
+  }
+  feature {
+    name: "wd (deg)"
+    type: FLOAT
+    presence {
+      min_fraction: 1.0
+      min_count: 1
+    }
+    shape {
+      dim {
+        size: 1
+      }
+    }
+  }
+  feature {
+    name: "wv (m/s)"
+    type: FLOAT
+    presence {
+      min_fraction: 1.0
+      min_count: 1
+    }
+    shape {
+      dim {
+        size: 1
+      }
+    }
+  }
+}
+anomaly_name_format: SERIALIZED_PATH

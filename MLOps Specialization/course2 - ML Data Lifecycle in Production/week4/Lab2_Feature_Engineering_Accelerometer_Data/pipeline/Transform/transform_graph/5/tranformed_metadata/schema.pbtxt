@@ -1,0 +1,21 @@
+feature {
+  name: "activity_xf"
+  type: INT
+  int_domain {
+    min: -1
+    max: 5
+    is_categorical: true
+  }
+}
+feature {
+  name: "x-acc_xf"
+  type: FLOAT
+}
+feature {
+  name: "y-acc_xf"
+  type: FLOAT
+}
+feature {
+  name: "z-acc_xf"
+  type: FLOAT
+}
