@@ -14,7 +14,7 @@
 
 </p></details>
 
-[TensorFlow Developer Professional Certificate](https://github.com/imakhadmi/DeepLearning.AI/tree/master/TensorFlow_Developer_Specialization)
+[TensorFlow Developer Professional Certificate](https://github.com/imakhadmi/DeepLearning.AI/tree/master/TensorFlow%20Developer%20Professional%20Certificate)
 <details><summary>Show Certificate</summary><p>
   
 [<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~BSKC9A79QUVJ/CERTIFICATE_LANDING_PAGE~BSKC9A79QUVJ.jpeg" />](https://www.coursera.org/account/accomplishments/specialization/certificate/BSKC9A79QUVJ)
